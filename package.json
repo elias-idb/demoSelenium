@@ -1,0 +1,21 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium",
+    "webdriber",
+    "xpath",
+    "locator"
+  ],
+  "author": "Elias",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^129.0.1",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
